@@ -1,0 +1,27 @@
+﻿<Window x:Class="Wpfdemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfdemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1382px" Width="1000px">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="36px"/>
+            <RowDefinition Height="*" />                     
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="业务信息" Grid.Row="1"></TextBlock>
+        <TextBlock Text="患者信息" Grid.Row="2"></TextBlock>
+        <TextBlock Text="用户病例" Grid.Row="3"></TextBlock>
+        <TextBlock Text="推荐药品" Grid.Row="4"></TextBlock>
+        <TextBlock Text="质检" Grid.Row="5"></TextBlock>
+        <TextBlock Text="用户评论     " Grid.Row="6"></TextBlock>
+    
+    </Grid>
+</Window>

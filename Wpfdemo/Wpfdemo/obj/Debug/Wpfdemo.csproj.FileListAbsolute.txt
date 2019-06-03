@@ -1,0 +1,14 @@
+F:\learn\Wpfdemo\Wpfdemo\bin\Debug\Wpfdemo.exe
+F:\learn\Wpfdemo\Wpfdemo\bin\Debug\Wpfdemo.pdb
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo.csprojAssemblyReference.cache
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\MainWindow.g.cs
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\App.g.cs
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo_MarkupCompile.cache
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo_MarkupCompile.lref
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\MainWindow.baml
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo.g.resources
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo.Properties.Resources.resources
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo.csproj.GenerateResource.cache
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo.csproj.CoreCompileInputs.cache
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo.exe
+F:\learn\Wpfdemo\Wpfdemo\obj\Debug\Wpfdemo.pdb
